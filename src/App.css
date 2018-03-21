@@ -41,3 +41,7 @@ html {
     p {
       margin-bottom: 15px;
     }
+
+    .current {
+      border-bottom: 4px solid white;
+    }
